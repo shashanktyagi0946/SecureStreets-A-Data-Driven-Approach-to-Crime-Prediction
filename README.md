@@ -50,8 +50,9 @@ The following Python libraries were used in the project:
 
 To install all dependencies, run:
 bash
-pip install pandas numpy matplotlib seaborn scikit-learn tensorflow geopandas folium google-auth
-Project Structure
+pip install -r requirements.txt
+
+**Project Structure**
 Bash
 
 SecureStreets-A-Data-Driven-Approach-to-Crime-Prediction/
