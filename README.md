@@ -58,7 +58,7 @@ SecureStreets-A-Data-Driven-Approach-to-Crime-Prediction/
 │
 ├── data/                       # Datasets used for training/testing
 ├── notebooks/                  # Jupyter notebooks (including final project notebook)
-│   └── Copy of Group13_DataScience_Project_Final.ipynb
+│   └── SecrureStreets.ipynb
 ├── results/                    # Plots, reports, and maps
 └── README.md
 How to Run
