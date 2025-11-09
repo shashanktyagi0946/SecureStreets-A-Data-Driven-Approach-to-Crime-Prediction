@@ -1,0 +1,16 @@
+contextily==1.6.2
+geopy==2.4.1
+numpy==2.3.2
+pandas==2.3.2
+matplotlib==3.10.6
+seaborn==0.13.2
+folium==0.20.0
+geopandas==1.1.1
+scikit-learn==1.7.1
+xgboost==2.3.0
+prophet==1.1.7
+tensorflow==2.19.0
+gdown==5.2.0
+google-api-python-client==2.179.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
