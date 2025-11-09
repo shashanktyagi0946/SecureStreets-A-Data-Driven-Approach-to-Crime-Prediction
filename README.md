@@ -61,7 +61,8 @@ SecureStreets-A-Data-Driven-Approach-to-Crime-Prediction/
 │   └── SecrureStreets.ipynb
 ├── results/                    # Plots, reports, and maps
 └── README.md
-How to Run
+
+**How to Run**
 Clone this repository:
 
 Bash
@@ -80,10 +81,12 @@ Bash
 jupyter notebook "Copy of Group13_DataScience_Project_Final.ipynb"
 Run all cells sequentially to reproduce the analysis and model results.
 
-Results
+**Results**
+
 The model successfully identifies high-risk areas and predicts likely crime types based on spatial and temporal factors. Interactive maps generated using folium help visualize these patterns effectively and highlight areas that may require increased attention from law enforcement.
 
-Future Work
+**Future Work**
+
 Integrate real-time data streams for live hotspot prediction.
 
 Improve model accuracy with deep learning and ensemble learning methods.
